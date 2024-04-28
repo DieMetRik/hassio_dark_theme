@@ -12,10 +12,6 @@ dark:
   divider-color: rgba(225, 225, 225, .12)
   mdc-ripple-color: "#AAAAAA"
 
-  state-armed-home-color: "#ff8c00"
-  state-disarmed-color: "#4caf50"
-  state-armed-away-color: "#f44336"
-
   ha-view-sections-column-gap: 7px
 
   input-idle-line-color: rgba(255, 255, 255, 0.42)
